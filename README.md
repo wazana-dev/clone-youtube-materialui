@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Clone do YouTube com React.js + Material-UI
 
-## Available Scripts
+<p align="center">
+  <a href="https://wazana.dev">
+    <img src="https://www.datocms-assets.com/41512/1642548236-logo.png" height="128">
+    <h1 align="center">wazana.dev</h1>
+  </a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a aria-label="Linkedin wazana.dev" href="https://www.linkedin.com/company/wazana-dev/">
+    <img src="https://img.shields.io/badge/wazana--dev-333.svg?style=for-the-badge&logo=linkedin&labelColor=0A66C2">
+  </a>
+  
+  <a aria-label="Instagram wazana.dev" href="https://www.instagram.com/wazana.dev/">
+    <img src="https://img.shields.io/badge/@wazana%2Edev-333.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F">
+  </a>
+  
+  <a aria-label="YouTube wazana.dev" href="https://www.youtube.com/channel/UCVE9-HO_GzLtDK4IGKVSYXA">
+    <img src="https://img.shields.io/badge/Wazana-333.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000">
+  </a>
+  
+  <a aria-label="Discord wazana.dev" href="https://discord.gg/MF6F4t8eQw">
+    <img src="https://img.shields.io/badge/wazana%2Edev-333.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2">
+  </a>
+</p>
 
-### `yarn start`
+**Playlist:** [Clonando o YouTube com React.js + Material-UI](https://www.wazana.dev/playlist/clonando-a-interface-do-youtube-com-react-js-material-ui).
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Introdução
+Vamos recriar a tela inicial do YouTube, utilizando React.js e Material-UI, com objetivo de utilizar um nível de abstração mais simples para replicar esta tela.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Nível
+- [x] - Intermediário
 
-### `yarn test`
+## Tecnologias utilizadas
+- `React.js`
+- `Material-UI`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Autor
+**Lucas Nhimi**
 
-### `yarn build`
+[![Linkedin: lucasnhimi](https://img.shields.io/badge/-lucasnhimi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasnhimi/)](https://www.linkedin.com/in/lucasnhimi/)
+[![GitHub lucasnhimi](https://img.shields.io/github/followers/lucasnhimi?label=follow&style=social)](https://github.com/lucasnhimi)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Agradecimentos
+- Conteúdo feito para [wazana.dev](https://www.wazana.dev/) - Tecnologia direto ao ponto.
